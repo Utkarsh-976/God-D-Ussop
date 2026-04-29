@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int n;
-    cout<<"type: ";
+    cout<<"type~ ";
     cin>>n;
 
     int i = 1;
