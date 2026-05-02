@@ -21,7 +21,7 @@ int main()
     mathmarks[3] = 3769;
 
     mathmarks[2] = 4555; // You can change value of an array
-    cout << "These are math marks" << endl;
+    cout << "These are math scored marks" << endl;
     cout << mathmarks[0] << endl;
     cout << mathmarks[1] << endl;
     cout << mathmarks[2] << endl;
