@@ -29,7 +29,7 @@ int main(){
     // utk.a = 1; --> throw error because func is in private
     utk.d = 4;
     utk.e = 5;
-    utk.setdata(1,2,3);
+    utk.setdata(1,5,3);
     utk.getdata();
 
     return 0;
