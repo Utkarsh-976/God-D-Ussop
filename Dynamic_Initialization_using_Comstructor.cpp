@@ -3,7 +3,7 @@ using namespace std;
 
 
 class BankDeposit{
-    int principal;
+    int principalll;
     int years;
     float interestRate;
     float returnValue;
